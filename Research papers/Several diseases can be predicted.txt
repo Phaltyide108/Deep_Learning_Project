@@ -1,0 +1,52 @@
+Several diseases can be predicted based on the **morphology (size or shape)** of different types of **white blood cells (WBCs)**. Changes in WBC morphology often indicate underlying infections, hematologic disorders, or immune system abnormalities. Here’s a list of some conditions:  
+
+---
+
+### **1. Neutrophils (Segmented, Band, or Hypersegmented)**
+#### **Conditions Associated with Morphological Changes**  
+- **Hypersegmented Neutrophils (≥6 lobes)** → *Megaloblastic anemia (Vitamin B12 or Folate deficiency)*  
+- **Toxic Granulation & Döhle Bodies** → *Severe infections, sepsis, burns*  
+- **Pelger-Huët Anomaly (Hyposegmented Neutrophils, "Dumbbell" Shape)** → *Inherited disorder, Myelodysplastic Syndrome (MDS)*  
+- **Pseudo-Pelger-Huët Cells (Hyposegmented Neutrophils)** → *Myelodysplastic Syndromes, Leukemias*  
+- **Giant Neutrophils** → *Chronic Myeloid Leukemia (CML), infections*  
+
+---
+
+### **2. Lymphocytes (Size & Shape Variations)**
+#### **Conditions Associated with Morphological Changes**  
+- **Reactive (Atypical) Lymphocytes (Large, irregular nucleus, abundant cytoplasm)** → *Viral infections (e.g., EBV/Mononucleosis, CMV, Hepatitis, HIV)*  
+- **Smudge Cells (Fragile Lymphocytes)** → *Chronic Lymphocytic Leukemia (CLL)*  
+- **Small, Mature Lymphocytes with Scant Cytoplasm** → *CLL, Small Lymphocytic Lymphoma (SLL)*  
+- **Lymphoblasts (Large, Immature Lymphocytes with Fine Chromatin)** → *Acute Lymphoblastic Leukemia (ALL)*  
+
+---
+
+### **3. Monocytes (Enlarged or Abnormal Appearance)**
+#### **Conditions Associated with Morphological Changes**  
+- **Giant or Dysplastic Monocytes** → *Chronic Myelomonocytic Leukemia (CMML)*  
+- **Vacuolated Monocytes** → *Lysosomal storage diseases (e.g., Gaucher’s Disease, Niemann-Pick Disease)*  
+
+---
+
+### **4. Eosinophils (Abnormally Large or Small Granules)**
+#### **Conditions Associated with Morphological Changes**  
+- **Hypersegmented Eosinophils** → *Hypereosinophilic Syndrome (HES)*  
+- **Degranulated or Vacuolated Eosinophils** → *Parasitic infections, Drug reactions, Allergies*  
+- **Giant Eosinophils** → *Myeloproliferative Disorders*  
+
+---
+
+### **5. Basophils (Altered Granulation)**
+#### **Conditions Associated with Morphological Changes**  
+- **Increased Basophils with Large Granules** → *Chronic Myeloid Leukemia (CML)*  
+- **Basophil Degranulation** → *Severe allergic reactions, Myeloproliferative Disorders*  
+
+---
+
+### **6. General WBC Morphological Abnormalities in Leukemia & Myelodysplastic Syndromes**
+- **Blast Cells (Immature, Large, High N/C Ratio, Prominent Nucleoli)** → *Acute Leukemias (AML, ALL)*  
+- **Dysplastic WBCs (Hypogranulated, Hyposegmented, or Enlarged WBCs)** → *Myelodysplastic Syndrome (MDS)*  
+- **Leukocytosis with Abnormal Forms** → *Leukemia, Myeloproliferative Neoplasms*  
+
+---
+
